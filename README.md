@@ -17,4 +17,4 @@ PixelMate is a VS Code extension that enhances your CSS workflow by displaying p
 ## Example
 
 ```css
-font-size: 1.5rem; /* PixelMate will display (24px) */
+font-size: 1.5rem; /* 24px */
