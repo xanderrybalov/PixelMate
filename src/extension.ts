@@ -3,7 +3,7 @@ import * as vscode from "vscode";
 const BASE_FONT_SIZE = 16;
 
 export function activate(context: vscode.ExtensionContext) {
-  console.log("PixelMate активирован.");
+  console.log("PixelMate activated");
 
   const decorationType = vscode.window.createTextEditorDecorationType({
     after: {
